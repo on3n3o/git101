@@ -6,3 +6,4 @@ Todo:
 - [x] commit
 - [x] show in github
 - [x] add develop branch,
+- [ ] add change in notepad 
