@@ -2,7 +2,7 @@
 
 Todo:
 
-- [ ] add first file
-- [ ] commit
-- [ ] show in github
-- [ ] add develop branch,
+- [x] add first file
+- [x] commit
+- [x] show in github
+- [x] add develop branch,
